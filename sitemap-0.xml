@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://usmf-lab.github.io/EBCM</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-07-25T20:15:37.724Z</lastmod></url>
+<url><loc>https://usmf-lab.github.io/EBCM/agenda</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-07-25T20:15:37.724Z</lastmod></url>
+<url><loc>https://usmf-lab.github.io/EBCM/calls</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-07-25T20:15:37.724Z</lastmod></url>
+<url><loc>https://usmf-lab.github.io/EBCM/committees</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-07-25T20:15:37.724Z</lastmod></url>
+<url><loc>https://usmf-lab.github.io/EBCM/dates</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-07-25T20:15:37.724Z</lastmod></url>
+<url><loc>https://usmf-lab.github.io/EBCM/keynotes</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-07-25T20:15:37.724Z</lastmod></url>
+<url><loc>https://usmf-lab.github.io/EBCM/previous-meetings</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-07-25T20:15:37.724Z</lastmod></url>
+<url><loc>https://usmf-lab.github.io/EBCM/registration</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-07-25T20:15:37.724Z</lastmod></url>
+<url><loc>https://usmf-lab.github.io/EBCM/submission</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-07-25T20:15:37.724Z</lastmod></url>
+</urlset>
